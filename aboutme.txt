@@ -1,0 +1,7 @@
+This is a sample document.
+
+Written by: Charles Czysz
+
+My favorite color is green.
+
+I have 1 pet.
